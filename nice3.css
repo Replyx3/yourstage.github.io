@@ -1,0 +1,41 @@
+.kes {
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px;
+    display: inline-block;
+    background-color: green;
+    color: white;
+    padding: 10px 19px;
+    position: absolute;
+    right: 40px;
+}
+
+#hack{  
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px;
+    display: inline-block;
+    background-color: red;
+    color: white;
+    padding: 20px 10px;
+    position: absolute;
+    left: 200px;
+    top: 410px;
+    
+}
+
+label{
+    position: absolute;
+    right: 1300px;
+    bottom: 600px;
+    left: 80px;
+}
+body{
+    background: #34495e;
+    width: 1000;
+    height: 1000;
+}
+a #hack{
+    position: absolute;
+    bottom: 30px;
+}
